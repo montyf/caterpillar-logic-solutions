@@ -17,7 +17,7 @@ Level | Solution
 12 | Must have exactly two green blocks of any length 
 13 | Must have exactly two blocks of length 2
 14 | There must be at least one block of length 2
-15 | All blocks of length 1 must be adjacent
+15 | All blocks of length _n_ must be adjacent, and the different block lengths must be in increasing or decreasing order. For example, RGBBWWW is valid (1,1; 2, 3) but RGBBBWW is not (1,1; 3, 2).
 16 | One color can't appear more than any other color unless it's the only color in the sequence
 17 | The longest block length must only appear once
 18 | There must be exactly three distinct block types. For example, if a red block of length 1 appears three times, only count it once. However, a red block of length 1 and a red block of length 2 are two distinct block types
