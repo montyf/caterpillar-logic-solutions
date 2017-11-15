@@ -12,7 +12,7 @@ Level | Solution
 7 | Must contain gray, and more gray cells than blue blocks
 8 | Can't have red and purple touching anywhere in the sequence
 9 | Must have five combined red and gray cells
-10 | Can't contain any blocks of length one
+10 | Can't contain any blocks of length one, and must contain a block of length 2
 11 | Must have exactly four blocks of any length and color
 12 | Must have exactly two green blocks of any length 
 13 | Must have exactly two blocks of length 2
