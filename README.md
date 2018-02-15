@@ -1,6 +1,8 @@
 # Caterpillar Logic Solutions
 Solutions for the game Caterpillar Logic.
 
+Read the blog post [here](https://montyflatts.com/caterpillar-logic/).
+
 Level | Solution
 --- | --- 
 1 | Valid sequences are palindromic, ie the same when reversed
